@@ -118,9 +118,8 @@ NIM    : 312410199
 
    Penjelasan:
    
-- Pengguna memilih menu **4** (ubah data) untuk mengubah nilai mahasiswa bernama **Alice**.
-- Karena sebelumnya data **Alice** sudah dihapus (pada langkah 4), program tidak menemukan nama tersebut dalam dictionary `data_mahasiswa`.
-- Pesan error ditampilkan untuk memberitahu bahwa data **Alice** tidak ditemukan.
+- Pengguna memilih menu **4** (ubah data) untuk mengubah nilai mahasiswa bernama **Amelia Nurmala Dewi**.
+- Karena sebelumnya data **Amelia Nurmala Dewi** sudah dihapus (pada langkah 3), program tidak menemukan nama tersebut dalam dictionary `data_mahasiswa`.
 
 ---
 
