@@ -78,7 +78,7 @@ NIM    : 312410199
    - Input pengguna divalidasi, dan jika input tidak valid, menampilkan pesan error.
 
 
-## Berikut ini adalah hasilnya (Output)
+## Berikut ini adalah gamabar hasil kodenya (Output)
 
 ### 1. Tambahakan Data
    ![Screenshot (152) - Copy](https://github.com/user-attachments/assets/4e841416-85fb-4f26-9bdf-3dc5b6269470)
@@ -92,7 +92,7 @@ NIM    : 312410199
 ---
 
 ### 2. Tampilkan Data
-   ![Screenshot (153) - Copy](https://github.com/user-attachments/assets/ccc98900-34c0-40f5-9d1c-7004dc975eb6)
+   ![Screenshot (156) - Copy](https://github.com/user-attachments/assets/7e176eeb-b3e3-46b3-9b07-81d33239a1e1)
 
    Penjelasan:
    
@@ -114,8 +114,8 @@ NIM    : 312410199
 ---
 
 ### 4. Mengubah Data
-   ![Screenshot (152)](https://github.com/user-attachments/assets/15f66711-a892-46bd-8ef8-b346b291fdac)
-   
+   ![Screenshot (156)](https://github.com/user-attachments/assets/b2832c85-5e2b-4b7c-a3d5-220f161b5592)
+
    Penjelasan:
    
 - Pengguna memilih menu **4** (ubah data) untuk mengubah nilai mahasiswa bernama **Alice**.
@@ -132,7 +132,7 @@ NIM    : 312410199
 - Pengguna memilih menu **5** (keluar).
 - Program menghentikan eksekusi dan menampilkan pesan konfirmasi **"Keluar dari program"** sebelum keluar.
 
-  ## Berikut adalah gambar flowchart nya
+## Berikut adalah gambar flowchart nya
 
   ![6224181741560643372](https://github.com/user-attachments/assets/b713d080-a1e2-4b52-aead-0dad8ed0fbb8)
 
