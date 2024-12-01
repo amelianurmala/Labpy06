@@ -81,7 +81,7 @@ NIM    : 312410199
 ## Berikut ini adalah hasilnya (Output)
 
 ### 1. Tambahakan Data
-      ![Screenshot (152) - Copy](https://github.com/user-attachments/assets/4e841416-85fb-4f26-9bdf-3dc5b6269470)
+   ![Screenshot (152) - Copy](https://github.com/user-attachments/assets/4e841416-85fb-4f26-9bdf-3dc5b6269470)
 
    Penjelasan:
    
@@ -92,7 +92,7 @@ NIM    : 312410199
 ---
 
 ### 2. Tampilkan Data
-     ![Screenshot (153) - Copy](https://github.com/user-attachments/assets/ccc98900-34c0-40f5-9d1c-7004dc975eb6)
+   ![Screenshot (153) - Copy](https://github.com/user-attachments/assets/ccc98900-34c0-40f5-9d1c-7004dc975eb6)
 
    Penjelasan:
    
@@ -103,7 +103,7 @@ NIM    : 312410199
 ---
 
 ### 3. Menghapus Data
-     ![Screenshot (153)](https://github.com/user-attachments/assets/315dc6a5-537e-48ce-bbc4-fa8dea72c8ec)
+   ![Screenshot (153)](https://github.com/user-attachments/assets/315dc6a5-537e-48ce-bbc4-fa8dea72c8ec)
 
    Penjelasan:
 
@@ -114,7 +114,7 @@ NIM    : 312410199
 ---
 
 ### 4. Mengubah Data
-     ![Screenshot (152)](https://github.com/user-attachments/assets/15f66711-a892-46bd-8ef8-b346b291fdac)
+   ![Screenshot (152)](https://github.com/user-attachments/assets/15f66711-a892-46bd-8ef8-b346b291fdac)
    
    Penjelasan:
    
@@ -125,7 +125,7 @@ NIM    : 312410199
 ---
 
 ### 5. Keluar dari Program
-     ![Screenshot (154) - Copy](https://github.com/user-attachments/assets/0d02be0e-dce9-4042-8ab6-9581f3a416ec)
+   ![Screenshot (154) - Copy](https://github.com/user-attachments/assets/0d02be0e-dce9-4042-8ab6-9581f3a416ec)
 
    Penjelasan:
    
